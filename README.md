@@ -2,7 +2,7 @@
 
 [ Mixed Reality Multi-User exploration of the solar system ](https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
 
-Created by Solar Squad 
+### Created by Solar Squad 
 
 | Name            | Github Handle |
 | :-------------: |:-------------:|
@@ -15,10 +15,10 @@ Created by Solar Squad
 | Anthonia Carter | anthoniaocc |
 | Stephanie Tsuei | stsuei88 |
 
-Solution Description
+### Solution Description
 You must provide a paragraph describing the solution in some detail. This must be an entire paragraph, more than one or two sentences. It should explain whatever approaches you took to the problem, what you think worked and what did not work, and describe potential future work to be done.
 
-Installation Instructions
+### Installation Instructions
 * Express Node.js server
 * Unity
 
