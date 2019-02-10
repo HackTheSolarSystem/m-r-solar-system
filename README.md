@@ -23,8 +23,7 @@ Our project is an immersive learning experience where one to as many people can 
 ### Implementation
 To achieve this we leveraged the solar system model in unity which was provided to us. We built on top of this and created a higher resolution model for each planet with more details about it like its atmosphere, core etc. We then connected the unity models to a backend express server which renders facts and questions about each planet in a JSON format. The server here can take in a simple csv file as an input or connect to a database/engine which can provide it with the facts and questions.
 
-Inline-style: 
-![Workflow](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Workflow](https://github.com/HackTheSolarSystem/m-r-solar-system/blob/master/images/Image%20from%20iOS.jpg "Workflow")
 
 The users would see the facts and questions on the device which they are using to interact with the models. They would be able to answer the questions with the help of the facts provided and the answers would be validated by the server. 
 
