@@ -1,4 +1,4 @@
-# m-r-solar-system
+# SolAR
 
 [ Mixed Reality Multi-User exploration of the solar system ](https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
 
