@@ -1,0 +1,30 @@
+﻿planet,key,value,value~
+Earth,core,Iron,
+Earth,core,Nickel,
+Earth,core,Silicon,
+Earth,core,Sulfur,
+Earth,atmosphere,Nitrogen,78
+Earth,atmosphere,Oxygen,21
+Earth,atmosphere,Argon,1
+Earth,mass,1 Me,
+Earth,distance,8.32 light minutes,
+Mars,core,Iron,
+Mars,core,Sulfur,
+Mars,atmosphere,Carbon Dioxide,95.32
+Mars,atmosphere,Nitrogen,2.7
+Mars,atmosphere,Argon,1.6
+Mars,mass,0.107 Me,
+Mars,distance,12.67 light minutes,
+Mercury,core,Iron,
+Mercury,core,Solid Inner Core,
+Mercury,atmosphere,Hydrogen,
+Mercury,atmosphere,Helium,
+Mercury,atmosphere,Oxygen,
+Mercury,distance,3.22 light minutes,
+Mercury,mass,0.055 Me,
+Venus,core,Iron,
+Venus,core,Liquid Core,
+Venus,atmosphere,Carbon Dioxide,96
+Venus,atmosphere,Nitrogen,3
+Venus,distance,6.02 light minutes,
+Venus,mass,0.815 Em,
