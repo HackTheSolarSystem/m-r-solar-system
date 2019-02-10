@@ -1,4 +1,4 @@
-# SolAR
+# Sol-AR
 
 [ Mixed Reality Multi-User exploration of the solar system ](https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
 
@@ -30,6 +30,11 @@ The users would see the facts and questions on the device which they are using t
 ### Future work 
 * For future work, we can implement a system which can keep score for each user and at the end of the session provide details and statistics about each user who was part of that session 
 * The server component is modular enough to easily take in any other dataset like marine life, geographical data etc.
+
+### A note about data load:
+We designed this aspect to be recyclable. One need only generate a CSV file of data similar to the `data.csv` file, and change the variables `columns` and `attributes` within the `load_data.py` file, as well as the bases for the questions if they are not applicable in the different context. For example, instead of planets, one could include facts about dinosaurs. Where Earth, Mercury, Venus, etc are now one could include different species of dinosaur and have attributes such as 'height' 'diet' and 'era' instead of mass, atmosphere, etc.
+This script takes as input a table of data listing attributes about the items (planets, dinosaurs, fish) you want the user to learn about, and generates a list of questions based on that data. It may need a little work to translate it to another context, but hopefully the hard stuff is done and fully recylcable! Then, it could be implemented in a nearly identical AR manner with some Unity dinosaur exploration (instead of zooming in on a planet to learn about it, you would zoom in on a dinosaur).
+It is our hope that this multi-user data exploration game could be used across multiple disciplines at the museum. :)
 
 # Installation Instructions
 * Express Node.js server
