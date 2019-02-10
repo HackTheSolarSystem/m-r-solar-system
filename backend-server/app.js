@@ -7,6 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var questionRouter = require('./routes/questions');
+var factsRouter = require('./routes/facts');
 
 var app = express();
 
@@ -23,14 +24,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/questions', questionRouter);
+app.use('/facts', factsRouter);
 
 
 app.listen(3000, () => {
  console.log("Server running on port 3000");
-});
-
-app.get("/url", (req, res, next) => {
- res.json(["Tony","Lisa","Michael","Ginger","Food"]);
 });
 
 // catch 404 and forward to error handler
