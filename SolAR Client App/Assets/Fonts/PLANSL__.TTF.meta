@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b70ddd61bd1b22843b6271573a8c6365
+timeCreated: 1511890034
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plan55Stencil
+  fontNames:
+  - Plan55Stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
