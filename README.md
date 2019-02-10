@@ -1,7 +1,4 @@
 # m-r-solar-system
-Mixed Reality Multi-User exploration of the solar system
-
-Solar
 
 [ Mixed Reality Multi-User exploration of the solar system ](https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
 
@@ -22,7 +19,9 @@ Solution Description
 You must provide a paragraph describing the solution in some detail. This must be an entire paragraph, more than one or two sentences. It should explain whatever approaches you took to the problem, what you think worked and what did not work, and describe potential future work to be done.
 
 Installation Instructions
-You must list by name all software packages, APIs, frameworks, databases, or any other tools or libraries you used.
+* Express Node.js server
+* Unity
+
 
 You must also provide any step-by-step instructions for installation of your solution.
 
