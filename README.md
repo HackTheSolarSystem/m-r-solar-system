@@ -2,7 +2,8 @@
 Mixed Reality Multi-User exploration of the solar system
 
 Solar
-Addressing [ Mixed Reality Multi-User exploration of the solar system ] (https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
+[ Mixed Reality Multi-User exploration of the solar system ] (https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
+
 Created by Solar Squad 
 
 | Name            | Github Handle |
